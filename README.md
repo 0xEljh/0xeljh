@@ -2,9 +2,9 @@ I'm a full-stack machine learning engineer and startup person. The latter is why
 Currently looking for opportunities as a research/machine learning engineer. Email: elijah@0xeljh.com
 
 My active projects:
-- [pytorch-lightning-inspired backtester](https://github.com/0xEljh/backsim)
 - [telegram bot to log your pod's EDH games](https://github.com/0xEljh/edh-telegram-bot)
 - [my digital garden: blog + digital portfolio](https://0xeljh.com/)
+- [pytorch-lightning-inspired backtester](https://github.com/0xEljh/backsim) (Postponing till ~July while I search for a job)
 - Also currently working on Unsloth's puzzle challenge for both the learning and the potential opportunity
 
 some github highlights:
